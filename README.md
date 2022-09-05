@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxiadhi
+- 🌱 I’m currently learning C++
+- 📫 How to reach me, dm me on twitter @adddhi, or discord adhi#0805
